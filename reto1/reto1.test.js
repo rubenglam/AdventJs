@@ -1,6 +1,7 @@
 const { wrapping } = require('./reto1');
 
-`Instrucciones
+`
+Instrucciones
 
 Este año los elfos han comprado una máquina que envuelve regalos. Pero... ¡no viene programada! Necesitamos crear un algoritmo que le ayude en la tarea.
 
@@ -22,7 +23,8 @@ Nota:El carácter \n representa un salto de línea.
 
 ¡Ojo!Asegúrate que pones el número correcto de * para envolver completamente el string.
 
-¡Suerte!`;
+¡Suerte!
+`;
 
 test('reto1Test', () => {
 	const gifts = ['book', 'game', 'socks'];
